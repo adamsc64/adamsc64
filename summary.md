@@ -1,0 +1,19 @@
+## `summary.txt`
+
+Hi, I’m Chris.
+
+I tend to think a few layers deeper than I show — I’m often analyzing in the background. I care a lot about making things better: systems, processes, ideas. Not just “fine,” but actually *working*. I lead with strategy and structure, but that doesn’t mean I don’t care — I just want things to make sense.
+
+Pet peeves? Groupthink, unexamined processes, and wasting time debating the wrong thing. I get especially frustrated when people shrug at bad tooling or say, “That’s just how we do it.”
+
+Some quirks: I like stepping back and rethinking systems from first principles. If I’m quiet in a meeting, I’m not disengaged — I’m evaluating whether saying something will actually help. And I’m totally fine with disagreement — I actually enjoy when someone challenges my thinking in a useful way.
+
+People sometimes think I’m aloof or critical at first. I’m not — I just take time to observe before jumping in. If I ask tough questions, it’s because I care, not because I’m trying to win points.
+
+I really value colleagues who are curious, thoughtful, and direct. People who challenge assumptions and take initiative without waiting for permission.
+
+When I coach, I try to create space and give people real ownership. I’ll ask probing questions, offer perspective, and back you hard if you take the lead.
+
+Best way to get through to me? Make the case from first principles and long-term value.
+
+And when it comes to feedback — be clear, be kind, be early. That’s what I’ll try to do for you, too.
